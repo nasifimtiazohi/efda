@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "javascript/npm/npm-shrinkwrap-requires/package.json",
+        "javascript/npm/npm-shrinkwrap/package.json",
+        "javascript/npm/npm-version-ranges/package.json",
+        "javascript/npm/npm-with-dev-dependencies/package.json",
+        "javascript/yarn/yarn-lock-with-dev-dependencies/package.json",
+        "javascript/yarn/yarn-scopes/package.json"
+      ]
+    }
+  }
+}
