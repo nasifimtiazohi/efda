@@ -1,5 +1,7 @@
 # Evaluation Framework for Dependency Analysis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nasifimtiazohi/efda.svg)](https://greenkeeper.io/)
+
 #### If you are...
 - Using open-source libraries,
 - Using package managers to manage project dependencies,
