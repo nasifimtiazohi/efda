@@ -13,7 +13,7 @@ then this open-source project is tailored for you!
 This project comprises of projects implemented on different languages, build systems and possibly different type of setups for each build system. Each project also has a README file to describe the expected output of testing against the project (number of direct dependencies, transitive dependencies, etc).
 
 ### What is included in this project?
-Projects implemented in:
+Projects implemented in:-
  - Golang
  - Java
  - Ruby
@@ -29,10 +29,10 @@ An [EFDA Spreadsheet](https://docs.google.com/spreadsheets/d/1rAmOxEQDw1SpKetbrG
 
 ![EFDA Spreadsheet screenshot](efda_ss.png)
 
-#### Frequently Asked Questions
+#### Frequently Asked Questions:-
 
 ###### I don't see any project implemented on the build system of my choice. Can I contribute?
-Yes of course! If you do not see the programming language/build system or even a particular tricky setup of a build system of your choice, feel free to send a pull request to us.
+Yes,of course! If you do not see the programming language/build system or even a particular tricky setup of a build system of your choice, feel free to send a pull request to us.
 
 ###### Are the results reliable?
 The projects are made simple on purpose. The point is to create projects with dependencies that we can easily track so that we can easily verify the output is correct. This means the projects usually consist of only a few dependencies and little code.
